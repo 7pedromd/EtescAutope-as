@@ -147,7 +147,7 @@
     
 }
 
-.img4 > img {
+.img4 > a > img {
     width: 75%;
         border-radius: 20px;
         text-align: left;
@@ -174,7 +174,7 @@
     
 }
 
-.img1roblox > img {
+.img1roblox > a > img {
 
      width: 60%;
         border-radius: 20px;
@@ -183,6 +183,7 @@
 }
 
 .img1
+
 
 
 

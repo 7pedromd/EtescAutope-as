@@ -129,4 +129,20 @@
     .img3 > ul > li {
         padding-bottom: 7px;
         
+
     }
+
+.img4 > h1 {
+
+    padding-top: 8px;
+        font-size: 38px;
+        color: rgb(0, 40, 96);
+}
+
+.img > p {
+     font-size: 17px;
+         padding-top: 15px;
+         margin: 15px;
+         text-align: left;
+    
+}

@@ -186,6 +186,10 @@
 
     
     text-align: center
+      width: 100%;
+  aspect-ratio: 16 / 9; /* mantém proporção */
+  height: auto;
+  border: none;
 }
 
 .clique{
@@ -197,6 +201,19 @@
     aspect-ratio: 16/9 ;
 
     
+}
+
+.clique {
+  width: 100%;
+  max-width: 800px; /* opcional, limita o tamanho máximo */
+  margin: 0 auto; /* centraliza */
+}
+
+.video-container iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9; /* mantém proporção */
+  height: auto;
+  border: none;
 }
 
 

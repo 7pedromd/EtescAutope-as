@@ -193,7 +193,7 @@
 
 .yt {
   
-  max-width:75% ; /* opcional, limita o tamanho máximo */
+  max-width:85% ; /* opcional, limita o tamanho máximo */
   margin: 0 auto; /* centraliza */
 }
 
@@ -203,6 +203,7 @@
   height: auto;
   border: none;
 }
+
 
 
 

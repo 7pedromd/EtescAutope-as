@@ -193,9 +193,11 @@
     text-align:center;
     color: rgb(#ff0000);
     max-width: 50%;
+    background-size: cover;
 
     
 }
+
 
 
 

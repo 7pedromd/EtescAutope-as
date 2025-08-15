@@ -192,8 +192,8 @@
 }
 
 .yt {
-  width: 100%;
-  max-width: 800px; /* opcional, limita o tamanho máximo */
+  
+  max-width:75% ; /* opcional, limita o tamanho máximo */
   margin: 0 auto; /* centraliza */
 }
 
@@ -203,6 +203,7 @@
   height: auto;
   border: none;
 }
+
 
 
 

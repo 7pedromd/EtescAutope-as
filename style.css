@@ -194,9 +194,11 @@
     color: rgb(#ff0000);
     max-width: 50%;
     background-size: cover;
+    aspect-ratio: 16/9 ;
 
     
 }
+
 
 
 
